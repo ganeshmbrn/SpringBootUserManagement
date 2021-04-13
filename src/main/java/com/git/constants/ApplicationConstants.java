@@ -1,4 +1,4 @@
-package com.git.util;
+package com.git.constants;
 
 public class ApplicationConstants {
 	
